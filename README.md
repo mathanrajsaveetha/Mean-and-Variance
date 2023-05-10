@@ -49,8 +49,8 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Program :
 ~~~
-DEVELOPED BY :Meiyarasi.V
-REGISTER NUMBER : 212221230058
+DEVELOPED BY : mathan raj E
+REGISTER NUMBER : 212222230079
 ~~~
 ~~~
 import numpy as np
